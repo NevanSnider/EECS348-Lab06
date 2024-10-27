@@ -1,0 +1,17 @@
+body {
+    background-color: burlywood;
+    color: black;
+    font-family: arial;
+    font-size: 18pt;
+    background-image: url("background.png");
+    background-size: 100%;
+}
+
+body:hover {
+    background-color: blue;
+    color: blue;
+    font-family: arial;
+    font-size: 18pt;
+    background-image: url("background.png");
+    background-size: 100%;
+}
